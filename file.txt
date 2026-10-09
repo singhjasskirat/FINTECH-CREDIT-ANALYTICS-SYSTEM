@@ -1,2 +1,0 @@
-this is first text in main branch
-this is second text in main branch
